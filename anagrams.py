@@ -21,4 +21,5 @@ def anagrams_of(string):
     return collection
         
 
-print( anagrams_of( sys.argv[1] if len(sys.argv) > 1 else '123' ) )
+if __name__ == '__main__':
+    print( anagrams_of( sys.argv[1] if len(sys.argv) > 1 else '123' ) )

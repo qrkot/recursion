@@ -11,4 +11,5 @@ def get_n(n):
     return n + get_n(n-1)
 
 
-print( get_n(7) )
+if __name__ == '__main__':
+    print( get_n(7) )

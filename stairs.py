@@ -10,4 +10,4 @@ def num_of_paths(n):
 
     return num_of_paths(n - 1) + num_of_paths(n - 2) + num_of_paths(n - 3)
 
-print(num_of_paths(20))
+print(num_of_paths(11))
