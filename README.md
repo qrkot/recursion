@@ -13,6 +13,9 @@ Find even numbers in an array.
 ## Findx.py
 Find the position of letter "x" in a string.
 
-## Stairs.pu
+## Flatten.py
+Flatten a compound array.
+
+## Stairs.py
 
 ## Triang.py
