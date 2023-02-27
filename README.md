@@ -16,6 +16,9 @@ Find the position of letter "x" in a string.
 ## Flatten.py
 Flatten a compound array.
 
+## Quicksort.py
+Quicksort of an int array.
+
 ## Stairs.py
 
 ## Triang.py

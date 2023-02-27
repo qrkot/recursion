@@ -12,6 +12,5 @@ def number_of_chars(strings):
 
     return len(strings[0]) + number_of_chars(strings[1:len(strings)])
 
-
-
-print(number_of_chars(['ab', 'c', 'def', 'ghij']))
+if __name__ == '__main__':
+    print(number_of_chars(['ab', 'c', 'def', 'ghij']))
