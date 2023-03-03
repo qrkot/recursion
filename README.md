@@ -19,6 +19,9 @@ Flatten a compound array.
 ## Quicksort.py
 Quicksort of an int array.
 
+## Mergesort.py
+Merge sorting of an int array.
+
 ## Stairs.py
 
 ## Triang.py
